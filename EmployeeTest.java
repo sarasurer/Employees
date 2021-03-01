@@ -1,4 +1,3 @@
-package com.surer;
 
 public class EmployeeTest {
 //this is the employeetest codes here
